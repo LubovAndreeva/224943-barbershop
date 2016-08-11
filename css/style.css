@@ -1,0 +1,22 @@
+body {
+font-size: 14px;
+font-family: PTSans, MS Sans Serif, Geneva, sans-serif;
+line-height: 24px;
+color: #000000;
+font-weight: NarrowBold;
+}
+
+h1,
+h2 {
+font-size: 30px;
+color: #000000;
+font-weight: NarrowBold;
+line-height: 42px;
+}
+
+.include h2 {
+font-size: 14px;
+color: #000000;
+font-weight: NarrowBold;
+line-height: 24px;
+}
